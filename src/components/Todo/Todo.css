@@ -1,0 +1,10 @@
+.Todo {
+  text-align: left;
+  padding: 10px 20px;
+}
+
+.checkbox-grid {
+  /* border: 1px red solid; */
+  display: flex;
+  justify-content: flex-end;
+}

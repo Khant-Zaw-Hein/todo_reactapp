@@ -1,0 +1,26 @@
+div.nav-main-div {
+    display: flex;
+    border-bottom: rgba(128, 128, 128, 0.415) 0.03px solid;
+}
+
+div.username-div {
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+}
+
+div.nav-bar-div{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    width: 50%;
+}
+
+ul.navbar-ul {
+    display: flex;
+    list-style-type: none;
+}
+
+ul.navbar-ul > li {
+    margin: 5px 10px;
+}
